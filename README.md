@@ -36,8 +36,7 @@ The person your infra calls at 2am — except
 it never has to, because I built it right.
 
 **4 years** of making AWS do exactly what  
-the business needs, cheaper and faster than  
-anyone thought possible.
+the business needs, cheaper and faster
 
 **`25%`** cloud cost cut — real money, real fast.  
 **`0`** critical vulnerabilities — ever.  
@@ -65,7 +64,7 @@ anyone thought possible.
 <tr>
 <td valign="top" width="50%">
 
-**☁️ AWS — My Home Turf**
+**☁️ AWS**
 ```
 EC2          ECS Fargate    Lambda
 S3           RDS (Multi-AZ) CloudFront
@@ -102,6 +101,12 @@ AppDynamics
 ```
 Python       Bash
 MySQL        MongoDB        Amazon RDS
+```
+
+**💻AI and ML**
+```
+Bedrock       SageMaker
+ChatGPT        GithubCopilot
 ```
 
 </td>
