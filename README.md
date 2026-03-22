@@ -98,12 +98,6 @@ CloudWatch   Datadog        ELK Stack
 AppDynamics
 ```
 
-**🤖 AI & ML Tools**
-```
-AWS Bedrock  SageMaker
-ChatGPT      GitHub Copilot
-```
-
 **💻 Languages & Databases**
 ```
 Python       Bash
