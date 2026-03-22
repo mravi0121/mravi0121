@@ -1,135 +1,232 @@
-# 🚀 Ravi Mishra
+<div align="center">
 
-### Cloud DevOps Engineer | AWS | Terraform | CI/CD | Kubernetes
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=RAVI%20MISHRA&fontSize=52&fontColor=00d4ff&fontAlignY=55&animation=fadeIn&desc=I%20don%27t%20manage%20servers.%20I%20make%20them%20manage%20themselves.&descAlignY=78&descSize=13&descColor=7f8c8d" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mravi012">LinkedIn</a> •
-  <a href="mailto:ravimishra121299@gmail.com">Email</a>
-</p>
+</div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<div align="center">
 
-I’m a **Cloud DevOps Engineer with ~4 years of experience** building scalable, secure, and highly available cloud infrastructures.
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Senior Cloud DevOps Engineer  ·  4 Years  ·  AWS Certified  ║
+║         VVDN Technologies  ·  India                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-💡 I focus on:
+</div>
 
-* Automating infrastructure using **Terraform**
-* Designing robust **CI/CD pipelines**
-* Deploying scalable **containerized applications**
-* Optimizing **cloud cost & performance**
+<div align="center">
 
-⚡ I enjoy solving real-world infrastructure challenges and building production-grade systems.
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mravi012)
+[![Email](https://img.shields.io/badge/─%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravimishra121299@gmail.com)
+[![AWS](https://img.shields.io/badge/─%20AWS%20SAA%20Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-☁️ **Cloud**
-AWS (EC2, S3, RDS, ECS, VPC, IAM, Lambda, CloudFront, WAF)
-
-📦 **Containers**
-Docker | Kubernetes | Amazon ECS
-
-⚙️ **DevOps Tools**
-Jenkins | GitHub Actions | Terraform | Ansible
-
-📊 **Monitoring**
-CloudWatch | ELK | Datadog | AppDynamics
-
-💻 **Languages**
-Python | Bash
-
-🗄️ **Databases**
-MySQL | MongoDB | RDS
-
-</p>
+</div>
 
 ---
 
-## 🏗️ Featured Projects
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mravi0121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues&icon_color=00d4ff&title_color=00d4ff&text_color=a0aec0&bg_color=0d1117"/>
 
-### 🔹 AWS Scalable Infrastructure
+### `$ whoami`
 
-🚀 Designed production-ready AWS infrastructure with:
+Cloud whisperer. Pipeline architect.  
+The person your infra calls at 2am — except  
+it never has to, because I built it right.
 
-* Auto Scaling & Load Balancing
-* ECS-based container deployment
-* Terraform reusable modules
-* Secure IAM architecture
+**4 years** of making AWS do exactly what  
+the business needs, cheaper and faster than  
+anyone thought possible.
 
----
+**`25%`** cloud cost cut — real money, real fast.  
+**`0`** critical vulnerabilities — ever.  
+**`0`** downtime migrations — every single time.
 
-### 🔹 Cloud Migration (On-Prem → AWS)
-
-🔄 Migrated applications to AWS using:
-
-* Microservices architecture
-* Docker containerization
-* Terraform provisioning
-* Zero-downtime deployment strategy
+<br clear="right"/>
 
 ---
 
-### 🔹 Enterprise CI/CD Pipeline
+### `$ cat philosophy.txt`
 
-⚙️ Built a complete CI/CD system:
+```bash
+# The three laws of infrastructure I live by
 
-* Multi-branch Jenkins pipelines
-* Automated testing & security scanning
-* Git workflow automation
-* Faster & reliable deployments
-
----
-
-## 💼 Experience Snapshot
-
-🟢 **Senior DevOps Engineer** — VVDN Technologies (2025–Present)
-
-* Reduced cloud cost by **25%**
-* Achieved **zero critical vulnerabilities**
-* Led large-scale AWS migrations
-
-🟢 **DevOps Engineer** — VVDN Technologies (2022–2025)
-
-* Managed AWS infra (EC2, ECS, VPC)
-* Implemented Blue-Green deployments
-* Built scalable CI/CD pipelines
+[1]  If you did it manually twice, automate it.
+[2]  If it's not monitored, it doesn't exist.
+[3]  Security is not a phase. It's the foundation.
+```
 
 ---
 
-## 📜 Certification
+### `$ ls -la ~/skills/`
 
-✅ AWS Certified Solutions Architect – Associate
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**☁️ AWS — My Home Turf**
+```
+EC2          ECS Fargate    Lambda
+S3           RDS (Multi-AZ) CloudFront
+VPC          IAM            WAF
+Route 53     Auto Scaling   CloudWatch
+```
+
+**📦 Containers & Orchestration**
+```
+Docker       Kubernetes     Amazon ECS
+```
+
+**⚙️ Infrastructure as Code**
+```
+Terraform    Ansible
+```
+
+</td>
+<td valign="top" width="50%">
+
+**🔁 CI/CD Pipelines**
+```
+Jenkins      GitHub Actions
+Blue-Green   Canary Releases
+```
+
+**📊 Observability Stack**
+```
+CloudWatch   Datadog        ELK Stack
+AppDynamics
+```
+
+**🤖 AI & ML Tools**
+```
+AWS Bedrock  SageMaker
+ChatGPT      GitHub Copilot
+```
+
+**💻 Languages & Databases**
+```
+Python       Bash
+MySQL        MongoDB        Amazon RDS
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### `$ git log --oneline --career`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mravi0121&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mravi0121&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 What I’m Working On
-
-* 🔹 Advanced Terraform modules
-* 🔹 Kubernetes production deployments
-* 🔹 DevOps automation projects
-* 🔹 Open-source contributions
-
----
-
-## 🤝 Let's Connect
-
-📩 Email: [ravimishra121299@gmail.com](mailto:ravimishra121299@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/mravi012
+```
+f3a91c2  (HEAD, Senior DevOps Engineer @ VVDN)  2025 → now
+│         ├─ Owning multi-env AWS platform architecture
+│         ├─ Leading Terraform module library for all prod envs
+│         ├─ DevSecOps: zero CVEs, automated scanning in every pipeline
+│         └─ 25% cloud cost reduction via rightsizing + automation
+│
+b7d4e81  (DevOps Engineer @ VVDN)               2022 → 2025
+          ├─ Built CI/CD pipelines: Jenkins + GitHub Actions
+          ├─ Containerised legacy apps → ECS Fargate
+          ├─ Led on-prem → AWS migrations, zero downtime
+          └─ Set up CloudWatch + Datadog + ELK observability stack
+```
 
 ---
 
-⭐ *“Automate everything. Scale anything. Secure always.”*
+### `$ cat projects/README`
+
+```
+┌─────────────────────────────────────────────────────┐
+│  PROJECT 01  ·  AWS Scalable Infrastructure          │
+├─────────────────────────────────────────────────────┤
+│  Full multi-tier AWS architecture in Terraform.      │
+│  VPC · ALB · ASG · RDS Multi-AZ · CloudFront · WAF  │
+│  Remote state in S3 + DynamoDB locking.              │
+│  Reusable modules. Zero manual clicks.               │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  PROJECT 02  ·  On-Prem → AWS Migration              │
+├─────────────────────────────────────────────────────┤
+│  End-to-end enterprise migration.                    │
+│  Discovery · Dependency mapping · AWS DMS            │
+│  Cutover planning · Post-migration tuning            │
+│  Result: zero unplanned downtime.                    │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  PROJECT 03  ·  Enterprise CI/CD Pipeline            │
+├─────────────────────────────────────────────────────┤
+│  Commit to prod, fully automated.                    │
+│  SAST/DAST · Docker · ECR · ECS rolling deploys      │
+│  Blue-Green + Canary · Auto rollback on failure      │
+│  Slack alerts · Datadog integration                  │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+### `$ htop` — Live Activity
+
+<div align="center">
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mravi0121&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://github.com/mravi0121)
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mravi0121&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&langs_count=5)](https://github.com/mravi0121)
+
+<sub>Most infrastructure lives in private & enterprise repos — the public graph is just the tip.</sub>
+
+</div>
+
+---
+
+### `$ cat current_sprint.txt`
+
+```python
+tasks = [
+    "Advanced reusable Terraform module library",
+    "Kubernetes production hardening + GitOps",
+    "DevSecOps — security gates in every pipeline stage",
+    "Open-source DevOps tooling contributions",
+]
+
+status = "IN PROGRESS 🔄"
+```
+
+---
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+```
+Got an infrastructure challenge?
+A migration that's keeping you up at night?
+Or just want to talk cloud architecture?
+
+Run:  ./connect.sh --channel linkedin
+      ./connect.sh --channel email
+```
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-mravi012-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mravi012)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-ravimishra121299%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravimishra121299@gmail.com)
+
+<br/>
+
+[![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+# end of file — infrastructure never sleeps, but it should be self-healing enough that you can.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:16213e,100:0d0d0d&height=120&section=footer" width="100%"/>
+
+</div>
