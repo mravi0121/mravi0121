@@ -1,22 +1,14 @@
 <div align="center">
 
-# 👋 Ravi Mishra
+# Hi, I'm Ravi Mishra 👋
 
-### ☁️ Senior Cloud & DevOps Engineer
+### Senior Cloud & DevOps Engineer | AWS | Infrastructure Automation | CI/CD
 
-**AWS • Cloud Infrastructure • DevOps • Infrastructure as Code • CI/CD • Automation**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Senior+Cloud+%26+DevOps+Engineer;AWS+Infrastructure+Specialist;CI%2FCD+%26+Automation;Infrastructure+as+Code;Kubernetes+%26+ECS+Workloads;Agentic+AI+%2F+Bedrock+Explorer" alt="Typing SVG" />
 
-<p>
-  <a href="mailto:ravirmishra2995898@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ravirmishra2995898%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mravi012">
-    <img src="https://img.shields.io/badge/LinkedIn-mravi012-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Cloud+%26+DevOps+Engineer;AWS+Infrastructure+%26+Automation;Infrastructure+as+Code+%7C+Terraform+%7C+CloudFormation;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;Kubernetes+%7C+ECS+%7C+Docker;Cloud+Migration+%7C+Security+%7C+Observability;GenAI+%7C+Amazon+Bedrock+%7C+Agentic+Workflows" alt="Typing animation" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mravi012)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravirmishra2995898@gmail.com)
+[![Location](https://img.shields.io/badge/Noida,_India-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -24,381 +16,186 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Cloud & DevOps Engineer with 4.4+ years of experience** building, automating, securing, and operating AWS infrastructure across **20+ AWS accounts**.
+Senior Cloud & DevOps Engineer with **4.4+ years** building and operating AWS infrastructure across **20+ accounts**. I focus on making cloud environments reliable, secure, and cost-efficient — through Infrastructure as Code, automated CI/CD pipelines, and proactive monitoring rather than reactive firefighting.
 
-My work spans **cloud infrastructure, Infrastructure as Code, CI/CD automation, containerized workloads, cloud migration, security, observability, incident response, and production operations**.
-
-I focus on building infrastructure that is **reliable, scalable, secure, observable, and reproducible** — while continuously improving operational efficiency and cloud cost.
-
-- ☁️ AWS infrastructure across **20+ accounts**
-- 📈 Maintained **99.9% production SLA**
-- 💰 Reduced cloud spend by **25%**
-- 🏗️ Infrastructure as Code with **Terraform & CloudFormation**
-- 🚀 CI/CD with **Jenkins, GitHub Actions & CodePipeline**
-- 📦 Container workloads with **Docker, Kubernetes & Amazon ECS**
-- 🔐 AWS security, IAM & vulnerability remediation
-- 🔄 On-premises → AWS migration using **MGN, DMS & DataSync**
-- 🤖 Hands-on **Amazon Bedrock & agentic AI workflows**
-- 🐧 Linux / production operations / incident response
+- 🏗️ I design and enforce multi-account governance using AWS Organizations, SCPs, and IAM permission boundaries
+- 🚀 I build CI/CD pipelines (Jenkins, GitHub Actions) with Blue-Green, Canary, and rolling deployment strategies
+- 📉 I've cut cloud spend by **25%** through right-sizing and automation, and **35%** by refactoring monoliths to microservices
+- 🛡️ I keep environments audit-ready — resolving AWS Security Hub and Amazon Inspector findings to a clean state
+- 🤖 I'm currently applying Agentic AI (Amazon Bedrock, AWS DevOps Agent) to cloud/DevOps workflows
+- 🎯 AWS Certified Solutions Architect – Associate
 
 ---
 
-## 🧰 Technical Arsenal
+## 🛠️ Technical Skills
 
-### ☁️ Cloud — AWS
-
-<p>
+### ☁️ Cloud Platforms (AWS)
 <img src="https://skillicons.dev/icons?i=aws" />
-</p>
 
-**AWS:** EC2 • S3 • RDS • VPC • IAM • Lambda • ECS • EKS • CloudFront • WAF • Security Hub • SageMaker • Systems Manager • Direct Connect • VPN • CloudTrail • Secrets Manager
+`EC2` `S3` `RDS` `VPC` `IAM` `Lambda` `ECS` `EKS` `CloudFront` `WAF` `Security Hub` `SageMaker` `Systems Manager` `Direct Connect` `VPN` `CloudTrail` `Secrets Manager`
 
----
+### 🏗️ Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform" />
 
-### 🏗️ Infrastructure as Code & Configuration
-
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-**Terraform • CloudFormation • Ansible**
-
-Infrastructure designed to be **version-controlled, reproducible, and rebuildable**.
-
----
-
-### ⚙️ DevOps & CI/CD
-
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,github,git" />
-</p>
-
-**Jenkins • GitHub Actions • AWS CodePipeline • Git • GitHub**
-
-Experience with automated testing, security scanning, deployments and release strategies including:
-
-`Blue-Green` • `Canary` • `Rolling Releases`
-
----
+`Terraform` `CloudFormation` `Ansible`
 
 ### 📦 Containers & Orchestration
-
-<p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
 
-**Docker • Kubernetes • Amazon ECS**
+`Docker` `Kubernetes` `Amazon ECS`
 
-Containerized workloads, ECS environments, Kubernetes workloads and scalable production deployments.
+### ⚙️ CI/CD & Automation
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions" />
 
----
+`Jenkins` `GitHub Actions` `AWS CodePipeline`
 
 ### 📊 Monitoring & Observability
-
-**AWS CloudWatch • Datadog • Prometheus • ELK Stack**
-
-- CloudWatch dashboards
-- SLO-based alerting
-- Proactive monitoring
-- Production observability
-- Log analysis
-- Incident detection and troubleshooting
-
----
+`CloudWatch` `ELK Stack` `Datadog` `Prometheus`
 
 ### 🔐 Security & Compliance
-
-**AWS Security Hub • Amazon Inspector • IAM • NACLs • WAF • Security Groups**
-
-Hands-on experience with:
-
-- IAM roles
-- Permission boundaries
-- Service Control Policies
-- Least-privilege access
-- AWS Organizations security controls
-- Vulnerability remediation
-- Security Hub findings
-- Inspector findings
-
----
+`AWS Security Hub` `Amazon Inspector` `IAM` `NACLs` `WAF`
 
 ### 🤖 Agentic AI & LLM Tooling
+`Amazon Bedrock` `AWS DevOps Agent` `Claude`
 
-**Amazon Bedrock • AWS DevOps Agent • Claude**
+### 💻 Scripting
+<img src="https://skillicons.dev/icons?i=python,bash" />
 
-Hands-on experience with **GenAI / agentic workflows**, including a serverless AI chatbot architecture using Amazon Bedrock.
+`Python` `Bash` `Shell Scripting`
 
----
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-### 💻 Scripting & Databases
+`MySQL` `MongoDB` `DocumentDB`
 
-**Scripting:** Python • Bash • Shell Scripting
+### 🔧 Version Control & Workflow
+<img src="https://skillicons.dev/icons?i=git,github" />
 
-**Databases:** MySQL • MongoDB • Amazon DocumentDB
-
-**Collaboration:** Jira • Agile/Scrum
-
----
-
-# 🏆 Professional Experience
-
-## VVDN Technologies
-
-**Senior Cloud Engineer — Cloud & DevOps**  
-`June 2022 – Present | Noida, India`
-
-### ☁️ Cloud Infrastructure
-
-- Own cloud infrastructure across **20+ AWS accounts**, applying AWS Well-Architected Framework principles.
-- Maintained **99.9% production SLA** and high availability.
-- Configured VPC Peering, Transit Gateway, NACLs and Security Groups.
-- Designed IAM roles, permission boundaries and SCPs across AWS Organizations.
-- Managed EBS volumes, snapshots and EFS for scalable application storage.
-
-### 🚀 Automation & Operations
-
-- Built CloudWatch dashboards and SLO-based alerts for proactive issue detection.
-- Managed patching and vulnerability remediation across **200+ nodes** using AWS Systems Manager.
-- Served as primary escalation point for critical production incidents.
-- Performed root-cause analysis and coordinated production fixes.
-- Provided on-call production support and client communication.
-
-### 💰 Cloud Optimization
-
-- Reduced cloud spend by **25%** through:
-  - EC2 right-sizing
-  - Auto Scaling tuning
-  - S3 lifecycle policies
-
-### 🔐 Security
-
-- Resolved AWS Security Hub and Amazon Inspector findings to a **critical-vulnerability-free state**.
-- Maintained security compliance across production infrastructure.
-
-### 🔄 Platform Modernization
-
-- Led migration from **Amazon Linux 2 → Amazon Linux 2023** across multiple AWS accounts.
-- Completed the migration with **zero service disruption** and no security-compliance gaps.
+`Git` `GitHub` `Jira` `Agile/Scrum`
 
 ---
 
-# 🚀 Featured Cloud & DevOps Projects
+## ☁️ AWS Cloud Expertise
 
-## 01 — Scalable Multi-Account Cloud Infrastructure
-
-**AWS • EC2 • Kubernetes • ALB • ECS • CloudWatch • RabbitMQ**
-
-### What I worked on
-
-- Built and managed **ECS workloads across 50+ EC2 instances**.
-- Implemented multi-AZ Auto Scaling and Application Load Balancing.
-- Designed infrastructure capable of maintaining reliable performance during traffic spikes.
-- Maintained multi-branch Jenkins pipelines with:
-  - Automated testing
-  - Security scanning
-  - Deployment automation
-  - Blue-Green deployments
-  - Canary releases
-  - Rolling releases
-- Ran AWS Glue crawlers, data catalogs and ETL jobs supporting analytics dashboards and reporting.
-
-**Focus:** `Scalability` • `High Availability` • `CI/CD` • `Automation` • `Observability`
-
----
-
-## 02 — On-Premises → AWS Cloud Migration
-
-**AWS • Terraform • ECS • Microservices • MGN • DMS • DataSync**
-
-### What I worked on
-
-- Planned AWS architecture using **AWS Well-Architected Framework** principles.
-- Refactored monolithic applications toward **microservices**.
-- Reduced project cost by **35%**.
-- Migrated on-premises applications and databases to AWS using:
-  - AWS MGN
-  - AWS DMS
-  - AWS DataSync
-- Selected **Rehost** and **Replatform** strategies based on application requirements.
-- Provisioned multi-AZ environments using Terraform and CloudFormation.
-- Worked with:
-  - EC2
-  - VPC
-  - RDS
-  - S3
-  - ELB
-
-**Focus:** `Cloud Migration` • `IaC` • `Microservices` • `AWS Architecture` • `Cost Optimization`
-
----
-
-## 03 — AI Chatbot — Serverless Cloud Architecture
-
-**Amazon Bedrock • Lambda • API Gateway • S3 • IAM • Python**
-
-### What I worked on
-
-- Built a serverless GenAI chatbot using **Amazon Bedrock**.
-- Implemented an **agentic workflow** for context-aware LLM responses.
-- Used AWS Lambda for serverless compute.
-- Exposed functionality through API Gateway.
-- Hosted the frontend on Amazon S3.
-- Managed access using IAM roles and resource-based policies.
-
-**Focus:** `GenAI` • `Amazon Bedrock` • `Serverless` • `Agentic AI` • `AWS Security`
-
----
-
-# 🔁 DevOps Lifecycle
-
-<div align="center">
-
-### PLAN → CODE → BUILD → TEST → RELEASE → DEPLOY → MONITOR
-
-</div>
-
-| Stage | Technologies |
+| Category | Services |
 |---|---|
-| 📝 Plan | Jira • Agile/Scrum |
-| 💻 Code | Git • GitHub |
-| 🔨 Build | Jenkins • GitHub Actions • CodePipeline |
-| 🧪 Test | Jenkins automated testing |
-| 🔍 Security | Security scanning • Security Hub • Inspector |
-| 📦 Package | Docker |
-| 🚀 Deploy | ECS • Kubernetes • AWS |
-| 🏗️ Infrastructure | Terraform • CloudFormation • Ansible |
-| 📊 Monitor | CloudWatch • Datadog • Prometheus • ELK |
+| **Compute** | EC2, Lambda, ECS, EKS |
+| **Storage** | S3 |
+| **Database** | RDS |
+| **Networking** | VPC, Direct Connect, VPN, CloudFront |
+| **Security & Identity** | IAM, WAF, Security Hub, Secrets Manager, CloudTrail |
+| **Management & Ops** | Systems Manager |
+| **AI / ML** | SageMaker, Bedrock |
 
 ---
 
-# ☁️ AWS Capability Map
-
-| Domain | AWS Technologies |
-|---|---|
-| 🖥️ Compute | EC2 • Lambda • ECS • EKS |
-| 🗄️ Storage | S3 • EBS • EFS |
-| 🛢️ Databases | RDS • DocumentDB |
-| 🌐 Networking | VPC • Transit Gateway • VPC Peering • Direct Connect • VPN |
-| ⚖️ Load Balancing & CDN | ELB • ALB • CloudFront |
-| 🔐 Security | IAM • WAF • Security Hub • Inspector • NACLs • Security Groups |
-| 🔑 Secrets & Access | Secrets Manager • IAM • Permission Boundaries • SCPs |
-| 📈 Monitoring | CloudWatch • CloudTrail • Datadog |
-| 🛠️ Operations | Systems Manager |
-| 🔄 Migration | MGN • DMS • DataSync |
-| 🤖 AI/ML | Amazon Bedrock • SageMaker |
-| 🧬 Data | AWS Glue |
-
----
-
-# 📈 Impact at a Glance
+## 🔄 DevOps Toolchain
 
 <div align="center">
 
-| Metric | Impact |
-|---|---:|
-| ☁️ AWS Accounts Managed | **20+** |
-| 🖥️ EC2 Instances in Project | **50+** |
-| 🛠️ Production Nodes Managed | **200+** |
-| 🎯 Production SLA | **99.9%** |
-| 💰 Cloud Cost Reduction | **25%** |
-| 🔄 Migration Project Cost Reduction | **35%** |
-| 🐧 AL2 → AL2023 Migration | **Zero Service Disruption** |
+`GitHub` → `Jenkins` / `GitHub Actions` → `Docker` → `Terraform` / `CloudFormation` → `AWS (ECS/EKS/EC2)` → `CloudWatch` / `Datadog`
 
 </div>
 
 ---
 
-# 🏅 Certification
+## 💼 Professional Experience
 
-### ☁️ AWS Certified Solutions Architect — Associate
+### VVDN Technologies — Senior Cloud Engineer (Cloud & DevOps)
+**June 2022 – Present | Noida, India**
 
-**Amazon Web Services (AWS)**
-
----
-
-# 🎓 Education
-
-### GL Bajaj Group of Institutions, Mathura
-
-**Bachelor of Technology — Computer Science & Engineering**  
-`2018 – 2022` • **CGPA: 8.0 / 10.0**
-
----
-
-# 🚀 Currently Focused On
-
-- ☁️ AWS Cloud Infrastructure & Multi-Account Environments
-- 🏗️ Infrastructure as Code with Terraform & CloudFormation
-- ⚙️ CI/CD Automation & Deployment Strategies
-- 📦 Kubernetes & Amazon ECS Workloads
-- 🔐 Cloud Security, IAM & Vulnerability Remediation
-- 📊 Observability, Monitoring & Production Reliability
-- 🔄 Cloud Migration & Infrastructure Modernization
-- 🤖 GenAI & Agentic Workflows with Amazon Bedrock
+- Own cloud infrastructure across **20+ AWS accounts**, applying the AWS Well-Architected Framework to maintain **99.9% production SLA**
+- Led migration from Amazon Linux 2 to AL2023 across multiple accounts with **zero service disruption** and no compliance gaps
+- Cut cloud spend by **25%** through right-sizing, auto-scaling tuning, and S3 lifecycle policies
+- Resolved AWS Security Hub and Amazon Inspector findings to a clean, critical-vulnerability-free state and maintained it
+- Built CloudWatch dashboards and SLO-based alerts so the team catches issues before they become outages
+- Configured VPC peering, Transit Gateway, NACLs, and Security Groups; wrote IAM roles, permission boundaries, and SCPs org-wide to enforce least privilege
+- Managed EBS volumes/snapshots and configured EFS for scalable, highly available application storage
+- Primary escalation point for critical production incidents — drove root-cause analysis and coordinated fixes
+- Handled patching and vulnerability remediation via AWS Systems Manager across **200+ nodes**; provided on-call support and client communication
 
 ---
 
-# 🧠 Engineering Principles
+## 🚀 Featured Projects
 
-> **Automate what can be automated.**
+### Scalable Multi-Account Cloud Infrastructure
+**Stack:** AWS, EC2, Kubernetes, ALB, ECS, CloudWatch, RabbitMQ
 
-> **Infrastructure should be reproducible and version-controlled.**
-
-> **Security and least privilege should be built into infrastructure.**
-
-> **Monitoring should detect problems before they become outages.**
-
-> **Reliable infrastructure is designed for failure, scale and recovery.**
+- Built and managed ECS workloads across **50+ EC2 instances** with multi-AZ auto-scaling and ALB, maintaining reliable performance during traffic spikes
+- Maintained multi-branch Jenkins pipelines with automated testing, security scanning, and deployment — including Blue-Green, Canary, and rolling release strategies
+- Ran AWS Glue crawlers, data catalogs, and ETL jobs feeding the analytics team's dashboards and reporting
 
 ---
 
-# 📊 GitHub Analytics
+### On-Prem to AWS Cloud Migration
+**Stack:** AWS, Terraform, ECS, Microservices
+
+- Planned architecture using Well-Architected Framework pillars and refactored monoliths to microservices, **cutting cost by 35%**
+- Migrated on-prem applications and databases to AWS using MGN, DMS, and DataSync — selecting Rehost or Replatform per application requirement
+- Provisioned multi-AZ environments (EC2, VPC, RDS, S3, ELB) with Terraform/CloudFormation for fully version-controlled, rebuildable infrastructure
+
+---
+
+### AI Chatbot – Serverless Cloud Architecture
+**Stack:** Lambda, API Gateway, S3, Bedrock, IAM, Python
+
+- Built a serverless GenAI chatbot using Amazon Bedrock, Lambda, API Gateway, S3, and IAM, implementing an agentic workflow for context-aware LLM responses
+- Managed access with IAM roles and resource-based policies; hosted the frontend on Amazon S3
+
+---
+
+## 🎯 Currently Focused On
+
+- AWS multi-account governance & cost optimization
+- CI/CD pipeline hardening (Blue-Green / Canary strategies)
+- Agentic AI workflows on AWS (Bedrock, DevOps Agent)
+- Container orchestration (ECS/EKS)
+- Proactive observability & SLO-driven alerting
+
+---
+
+## 🧭 Engineering Philosophy
+
+- Infrastructure should be version-controlled and rebuildable, not hand-configured
+- Security is enforced at the account level, not bolted on afterward
+- Monitoring should catch problems before they become incidents
+- Cost efficiency is an ongoing discipline, not a one-time cleanup
+- Automate anything done more than once
+
+---
+
+## 🏆 Certifications
+
+**AWS Certified Solutions Architect – Associate**
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology, Computer Science & Engineering**
+GL Bajaj Group of Institutions, Mathura | 2018 – 2022 | CGPA: 8.0/10.0
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mravi0121&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mravi0121&hide_border=true" height="165" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mravi0121&layout=compact&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+## 📫 Connect With Me
 
 <div align="center">
 
-<!--
-  GitHub contribution snake:
-  Enable the workflow in your profile repository before using this image.
--->
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mravi012">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ravirmishra2995898@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mravi012)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravirmishra2995898@gmail.com)
 
 </div>
 
@@ -406,8 +203,10 @@ Hands-on experience with **GenAI / agentic workflows**, including a serverless A
 
 <div align="center">
 
-### ☁️ Building reliable infrastructure. Automating deployments. Improving continuously.
+*Building reliable infrastructure, automating deployments, and learning continuously.*
 
-**Thanks for visiting my profile! ⭐**
+⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=mravi0121&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
