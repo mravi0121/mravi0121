@@ -77,6 +77,16 @@ I'm also exploring **Generative AI and agentic workflows**, with a particular in
 &nbsp;<strong>AKTU Lucknow · B.Tech CSE</strong>
 </td>
 </tr>
+<tr>
+<td width="90"><code>CERTIFIED</code></td>
+<td>
+<img src="./assets/aws-certified-solutions-architect.png"
+     height="32"
+     valign="middle" />
+&nbsp;
+<strong>AWS Certified Solutions Architect – Associate</strong>
+</td>
+</tr>
 </table>
 
 </td>
