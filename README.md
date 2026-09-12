@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ravi Mishra
 
-### ☁️ Cloud & DevOps Engineer | AWS | Automation | Infrastructure
+### ☁️ Senior Cloud & DevOps Engineer
 
 <p>
   <a href="https://linkedin.com/in/mravi012">
@@ -12,28 +12,76 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<div align="center">
+  <img
+    src="./assets/engineering-bubbles.svg"
+    width="900"
+    alt="Cloud and DevOps Engineering"
+  />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure;AWS+Cloud+Engineering;DevOps+%26+Automation;Infrastructure+as+Code;CI%2FCD+%26+Release+Automation;Containers+%26+Orchestration;Cloud+Security+%26+Observability;Cloud+Migration+%26+Modernization;GenAI+%26+Agentic+Workflows" />
 
 <br>
-
-**Cloud Infrastructure • DevOps • Automation • Security • Migration • GenAI**
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Cloud & DevOps Engineer** focused on building, automating and operating reliable cloud infrastructure.
+<table>
+<tr>
 
-My work sits at the intersection of **AWS, infrastructure engineering, automation and software delivery**. I enjoy turning infrastructure and operational processes into systems that are easier to deploy, scale, monitor and maintain.
+<td width="62%" valign="top">
 
-I've worked across **AWS infrastructure, Infrastructure as Code, CI/CD pipelines, containerized workloads, cloud migration, security, observability and production operations**.
+I'm a **Cloud & DevOps Engineer** who enjoys building the infrastructure behind reliable products.
 
-I'm particularly interested in the engineering behind reliable infrastructure — designing cloud environments, automating deployments, improving observability, strengthening security and finding practical ways to make cloud platforms more efficient.
+I work primarily with **AWS**, but I'm comfortable moving across infrastructure, automation and operations when a system needs it — from **Infrastructure as Code and CI/CD** to containers, security and observability.
 
-I'm also exploring **Generative AI and agentic workflows**, including serverless applications built with Amazon Bedrock.
+A big part of my work is turning manual or complex infrastructure processes into **repeatable, automated workflows** that are easier to deploy, operate and scale.
+
+I'm also exploring **Generative AI and agentic workflows**, with a particular interest in serverless architectures and Amazon Bedrock.
+
+<td width="38%" valign="top">
+
+<h3>⚡ PROFILE</h3>
+
+<table>
+<tr>
+<td width="85"><code>BASED IN</code></td>
+<td><strong>Noida, India</strong></td>
+</tr>
+
+<tr>
+<td width="85"><code>OPEN TO</code></td>
+<td><strong>Remote or Relocation</strong></td>
+</tr>
+
+<tr>
+<td width="85"><code>NOW AT</code></td>
+<td>
+<img src="./assets/vvdn-logo.png" height="20" valign="middle" />
+&nbsp;<strong>VVDN Technologies</strong>
+</td>
+</tr>
+
+<tr>
+<td width="85"><code>SPECIALTY</code></td>
+<td><strong>AWS · Automation · Infrastructure</strong></td>
+</tr>
+
+<tr>
+<td width="85"><code>STUDIED</code></td>
+<td>
+<img src="./assets/aktu-logo.png" height="20" valign="middle" />
+&nbsp;<strong>AKTU Lucknow · B.Tech CSE</strong>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
