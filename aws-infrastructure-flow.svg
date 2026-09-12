@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="170" viewBox="0 0 1100 170">
+  <defs>
+    <style>
+      .box{fill:#f6f8fa;stroke:#24292f;stroke-width:2}
+      .title{font:600 16px Arial,sans-serif;fill:#24292f}
+      .arrow{stroke:#0969da;stroke-width:3;fill:none;stroke-linecap:round}
+      .dot{fill:#0969da}
+    </style>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#0969da"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="170" rx="18" fill="white"/>
+  <g transform="translate(20,55)">
+    <rect class="box" width="120" height="58" rx="12"/><text class="title" x="60" y="35" text-anchor="middle">GitHub</text>
+    <path class="arrow" d="M125 29 H165" marker-end="url(#arrow)"/>
+    <rect class="box" x="175" width="120" height="58" rx="12"/><text class="title" x="235" y="35" text-anchor="middle">Jenkins</text>
+    <path class="arrow" d="M300 29 H340" marker-end="url(#arrow)"/>
+    <rect class="box" x="350" width="120" height="58" rx="12"/><text class="title" x="410" y="35" text-anchor="middle">Docker</text>
+    <path class="arrow" d="M475 29 H515" marker-end="url(#arrow)"/>
+    <rect class="box" x="525" width="120" height="58" rx="12"/><text class="title" x="585" y="35" text-anchor="middle">ECS / EC2</text>
+    <path class="arrow" d="M650 29 H690" marker-end="url(#arrow)"/>
+    <rect class="box" x="700" width="120" height="58" rx="12"/><text class="title" x="760" y="35" text-anchor="middle">ALB</text>
+    <path class="arrow" d="M825 29 H865" marker-end="url(#arrow)"/>
+    <rect class="box" x="875" width="150" height="58" rx="12"/><text class="title" x="950" y="35" text-anchor="middle">CloudWatch</text>
+    <circle class="dot" r="6">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M0 29 H165 M175 29 H340 M350 29 H515 M525 29 H690 M700 29 H865 M875 29 H1005"/>
+    </circle>
+  </g>
+</svg>
