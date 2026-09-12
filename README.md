@@ -313,9 +313,11 @@ Build visibility into production systems using:
 
 ## ☁️ Scalable Multi-Account Cloud Infrastructure
 
-<p align="center">
-  <img src="./assets/aws-infrastructure-flow.svg" width="850" alt="AWS Infrastructure Flow" />
-</p>
+<div align="center">
+
+<img src="./assets/aws-infrastructure-flow.svg" width="950" alt="AWS Infrastructure Flow">
+
+</div>
 
 **AWS → Jenkins → Docker → ECS/EC2 → ALB → Auto Scaling → CloudWatch**
 
