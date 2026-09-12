@@ -1,31 +1,31 @@
 <div align="center">
 
 # 👋 Hi, I'm Ravi Mishra
-
-### ☁️ Senior Cloud & DevOps Engineer
+Senior Cloud & DevOps Engineer
 
 <p>
   <a href="https://linkedin.com/in/mravi012">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ravirmishra2995898@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:+91XXXXXXXXXX">
+    <img src="https://img.icons8.com/color/48/phone.png" width="32" alt="Phone"/>
   </a>
 </p>
-<div align="center">
-  <img
-    src="./assets/engineering-bubbles.svg"
-    width="900"
-    alt="Cloud and DevOps Engineering"
-  />
+</table>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=500&height=25&lines=AWS+Cloud+Engineering;Cloud+Infrastructure;DevOps+%26+Automation;Infrastructure+as+Code;CI%2FCD+%26+Release+Automation;Containers+%26+Orchestration;Cloud+Security+%26+Observability;Cloud+Migration+%26+Modernization;GenAI+%26+Agentic+Workflows"
+  alt="Cloud and DevOps Engineering"
+/>
+
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure;AWS+Cloud+Engineering;DevOps+%26+Automation;Infrastructure+as+Code;CI%2FCD+%26+Release+Automation;Containers+%26+Orchestration;Cloud+Security+%26+Observability;Cloud+Migration+%26+Modernization;GenAI+%26+Agentic+Workflows" />
-
-<br>
-</div>
-
----
+------
 
 ## About
 
