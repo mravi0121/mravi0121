@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#faf5ff"/><stop offset="1" stop-color="#eff6ff"/></linearGradient>
+ <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#7c3aed"/></marker>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<text x="600" y="31" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#172033">SERVERLESS GENAI REQUEST / RESPONSE FLOW</text>
+
+<g font-family="Arial" text-anchor="middle" font-weight="700">
+ <rect x="25" y="110" width="120" height="65" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="85" y="148" font-size="15">User</text>
+ <rect x="190" y="110" width="145" height="65" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="262" y="148" font-size="14">API Gateway</text>
+ <rect x="380" y="110" width="120" height="65" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="440" y="148" font-size="14">Lambda</text>
+ <rect x="545" y="110" width="165" height="65" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="627" y="148" font-size="14">Amazon Bedrock</text>
+ <rect x="755" y="110" width="175" height="65" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="842" y="140" font-size="14">Agentic Workflow</text><text x="842" y="159" font-size="11" font-weight="500" fill="#64748b">Context + Tools</text>
+ <rect x="975" y="110" width="170" height="65" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="1060" y="140" font-size="14">LLM Response</text><text x="1060" y="159" font-size="11" font-weight="500" fill="#64748b">to User</text>
+</g>
+
+<g stroke="#7c3aed" stroke-width="3" fill="none" stroke-linecap="round" marker-end="url(#a)">
+ <path d="M145 142H180"/><path d="M335 142H370"/><path d="M500 142H535"/><path d="M710 142H745"/><path d="M930 142H965"/>
+</g>
+
+<!-- forward request travels left-to-right -->
+<g fill="#7c3aed" filter="url(#glow)">
+ <circle r="6"><animateMotion dur="0.75s" begin="0s" repeatCount="indefinite" path="M145 142H180"/></circle>
+ <circle r="6"><animateMotion dur="0.75s" begin=".75s" repeatCount="indefinite" path="M335 142H370"/></circle>
+ <circle r="6"><animateMotion dur="0.75s" begin="1.5s" repeatCount="indefinite" path="M500 142H535"/></circle>
+ <circle r="6"><animateMotion dur="0.85s" begin="2.25s" repeatCount="indefinite" path="M710 142H745"/></circle>
+ <circle r="6"><animateMotion dur="0.85s" begin="3.10s" repeatCount="indefinite" path="M930 142H965"/></circle>
+</g>
+
+<!-- response travels back, synchronized after request reaches response -->
+<g stroke="#16a34a" stroke-width="2.5" fill="none" stroke-dasharray="7 6" marker-end="url(#a)">
+ <path d="M1060 185 C1060 245 85 245 85 180"/>
+</g>
+<circle r="6" fill="#16a34a" filter="url(#glow)">
+ <animateMotion dur="3.6s" begin="3.95s" repeatCount="indefinite" path="M1060 185 C1060 245 85 245 85 180"/>
+</circle>
+
+<!-- side services -->
+<rect x="470" y="215" width="120" height="42" rx="11" fill="#fff" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="530" y="241" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#334155">S3</text>
+<rect x="610" y="215" width="120" height="42" rx="11" fill="#fff" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="670" y="241" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#334155">IAM</text>
+
+<text x="600" y="286" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Request → API → Compute → Bedrock → Agent → Response → Return to User</text>
+</svg>

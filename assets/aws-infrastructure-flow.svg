@@ -1,1 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#eef6ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#2563eb"/></marker>
+</defs>
+<rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+<text x="600" y="31" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#172033">MULTI-ACCOUNT AWS DELIVERY FLOW</text>
 
+<g font-family="Arial" text-anchor="middle" font-weight="700">
+ <g><rect x="25" y="95" width="130" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="90" y="134" font-size="15">GitHub</text></g>
+ <g><rect x="195" y="95" width="130" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="260" y="134" font-size="15">Jenkins</text></g>
+ <g><rect x="365" y="95" width="130" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="430" y="134" font-size="15">Docker</text></g>
+ <g><rect x="535" y="95" width="145" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="607" y="126" font-size="15">ECS / EC2</text><text x="607" y="147" font-size="11" font-weight="500" fill="#64748b">50+ instances</text></g>
+ <g><rect x="720" y="95" width="130" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="785" y="134" font-size="15">ALB</text></g>
+ <g><rect x="890" y="95" width="145" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="962" y="126" font-size="14">Auto Scaling</text><text x="962" y="147" font-size="11" font-weight="500" fill="#64748b">Multi-AZ</text></g>
+ <g><rect x="1075" y="95" width="100" height="66" rx="14" fill="#fff" stroke="#24292f" stroke-width="2"/><text x="1125" y="126" font-size="13">CloudWatch</text><text x="1125" y="147" font-size="11" font-weight="500" fill="#64748b">Monitor</text></g>
+</g>
+
+<g stroke="#2563eb" stroke-width="3" fill="none" stroke-linecap="round" marker-end="url(#a)">
+ <path d="M155 128H190"/><path d="M325 128H360"/><path d="M495 128H530"/><path d="M680 128H715"/><path d="M850 128H885"/><path d="M1035 128H1070"/>
+</g>
+
+<!-- one packet per arrow; each starts only after the previous segment -->
+<g fill="#2563eb" filter="url(#glow)">
+ <circle r="6"><animateMotion dur="0.65s" begin="0s" repeatCount="indefinite" path="M155 128H190"/></circle>
+ <circle r="6"><animateMotion dur="0.65s" begin="0.65s" repeatCount="indefinite" path="M325 128H360"/></circle>
+ <circle r="6"><animateMotion dur="0.65s" begin="1.30s" repeatCount="indefinite" path="M495 128H530"/></circle>
+ <circle r="6"><animateMotion dur="0.70s" begin="1.95s" repeatCount="indefinite" path="M680 128H715"/></circle>
+ <circle r="6"><animateMotion dur="0.70s" begin="2.65s" repeatCount="indefinite" path="M850 128H885"/></circle>
+ <circle r="6"><animateMotion dur="0.65s" begin="3.35s" repeatCount="indefinite" path="M1035 128H1070"/></circle>
+</g>
+
+<!-- synchronized pulse at destination -->
+<circle cx="1125" cy="128" r="7" fill="#16a34a">
+ <animate attributeName="r" values="7;13;7" dur="4.0s" repeatCount="indefinite"/>
+ <animate attributeName="opacity" values="1;.35;1" dur="4.0s" repeatCount="indefinite"/>
+</circle>
+<text x="600" y="215" text-anchor="middle" font-family="Arial" font-size="13" fill="#475569">Commit → Build → Containerize → Deploy → Load Balance → Scale → Observe</text>
+<text x="600" y="239" text-anchor="middle" font-family="Arial" font-size="11" fill="#64748b">Each packet advances to the next stage in sequence</text>
+</svg>
