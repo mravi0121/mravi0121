@@ -15,6 +15,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure;AWS+Cloud+Engineering;DevOps+%26+Automation;Infrastructure+as+Code;CI%2FCD+%26+Release+Automation;Containers+%26+Orchestration;Cloud+Security+%26+Observability;Cloud+Migration+%26+Modernization;GenAI+%26+Agentic+Workflows" />
 
+<br>
+
+**Cloud Infrastructure • DevOps • Automation • Security • Migration • GenAI**
+
 </div>
 
 ---
@@ -35,6 +39,8 @@ I'm also exploring **Generative AI and agentic workflows**, including serverless
 
 # 🧭 What I Do
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -42,13 +48,10 @@ I'm also exploring **Generative AI and agentic workflows**, including serverless
 
 ### ☁️ Cloud Engineering
 
-Design and operate AWS environments with a focus on:
+AWS infrastructure designed for **availability, scalability and reliability**.
 
-- High availability
-- Scalability
-- Reliability
-- Security
-- Cost efficiency
+`Architecture` `Multi-AZ` `Networking`  
+`Compute` `Storage` `Cost Optimization`
 
 </td>
 
@@ -56,13 +59,10 @@ Design and operate AWS environments with a focus on:
 
 ### ⚙️ DevOps & Automation
 
-Build repeatable engineering workflows around:
+Automated delivery pipelines and repeatable infrastructure workflows.
 
-- CI/CD
-- Infrastructure as Code
-- Containerization
-- Deployment automation
-- Operational automation
+`CI/CD` `IaC` `Docker`  
+`Kubernetes` `Automation` `Release Engineering`
 
 </td>
 
@@ -74,13 +74,10 @@ Build repeatable engineering workflows around:
 
 ### 🔐 Security & Reliability
 
-Work across:
+Security-first infrastructure with operational resilience and controlled access.
 
-- IAM & least privilege
-- Network security
-- Vulnerability remediation
-- Production operations
-- Incident response
+`IAM` `WAF` `Least Privilege`  
+`Vulnerability Management` `Production Operations`
 
 </td>
 
@@ -88,161 +85,17 @@ Work across:
 
 ### 📊 Observability
 
-Build visibility into production systems using:
+Production visibility focused on monitoring, alerting and faster troubleshooting.
 
-- CloudWatch
-- Datadog
-- Prometheus
-- ELK Stack
-- SLO-based monitoring
+`CloudWatch` `Datadog` `Prometheus`  
+`ELK` `SLOs` `Log Analysis`
 
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Technology Stack
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=aws" height="50"/><br>
-<b>Cloud</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=terraform,ansible" height="50"/><br>
-<b>Infrastructure</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github" height="50"/><br>
-<b>CI/CD</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50"/><br>
-<b>Containers</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=linux,bash" height="50"/><br>
-<b>Linux & Shell</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" height="50"/><br>
-<b>Automation</b>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=prometheus,elasticsearch" height="45"/><br>
-<b>Observability</b>
-</td>
-
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/><br>
-<b>Databases</b>
-</td>
-
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=python" height="45"/><br>
-<b>GenAI & LLM</b>
-</td>
-
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=aws" height="45"/><br>
-<b>Security</b>
 </td>
 
 </tr>
 </table>
 
 </div>
----
-
-# ☁️ AWS Capability Map
-
-<table>
-<tr>
-<th>Area</th>
-<th>Technologies</th>
-</tr>
-
-<tr>
-<td>🖥️ Compute</td>
-<td>EC2 • Lambda • ECS • EKS</td>
-</tr>
-
-<tr>
-<td>🗄️ Storage</td>
-<td>S3 • EBS • EFS</td>
-</tr>
-
-<tr>
-<td>🛢️ Database</td>
-<td>RDS • DocumentDB</td>
-</tr>
-
-<tr>
-<td>🌐 Networking</td>
-<td>VPC • Transit Gateway • VPC Peering • Direct Connect • VPN</td>
-</tr>
-
-<tr>
-<td>⚖️ Traffic & Delivery</td>
-<td>ALB • ELB • CloudFront</td>
-</tr>
-
-<tr>
-<td>🔐 Security</td>
-<td>IAM • WAF • Security Hub • Inspector • NACLs • Security Groups</td>
-</tr>
-
-<tr>
-<td>🔑 Secrets & Access</td>
-<td>Secrets Manager • IAM • Permission Boundaries • SCPs</td>
-</tr>
-
-<tr>
-<td>📈 Monitoring</td>
-<td>CloudWatch • CloudTrail • Datadog</td>
-</tr>
-
-<tr>
-<td>🛠️ Operations</td>
-<td>AWS Systems Manager</td>
-</tr>
-
-<tr>
-<td>🔄 Migration</td>
-<td>AWS MGN • AWS DMS • AWS DataSync</td>
-</tr>
-
-<tr>
-<td>🧬 Data</td>
-<td>AWS Glue</td>
-</tr>
-
-<tr>
-<td>🤖 AI / ML</td>
-<td>Amazon Bedrock • SageMaker</td>
-</tr>
-
-</table>
 
 ---
 
@@ -256,30 +109,234 @@ Build visibility into production systems using:
 
 </div>
 
-**AWS → Jenkins → Docker → ECS/EC2 → ALB → Auto Scaling → CloudWatch**
+<p align="center">
+<b>GitHub → Jenkins → Docker → ECS/EC2 → ALB → Auto Scaling → CloudWatch</b>
+</p>
 
-`AWS` `ECS` `EC2` `Kubernetes` `Jenkins` `ALB` `CloudWatch`
+<p align="center">
+<sub>Multi-Account AWS • 50+ Instances • CI/CD • Containerization • High Availability • Observability</sub>
+</p>
 
 ---
 
 ## 🔄 On-Premises → AWS Cloud Migration
 
+<div align="center">
+
+<img src="./assets/cloud-migration-flow.svg" width="950" alt="Cloud Migration Flow">
+
+</div>
+
 <p align="center">
-  <img src="./assets/cloud-migration-flow.svg" width="850" alt="Cloud Migration Flow" />
+<b>On-Premises → MGN / DMS / DataSync → Terraform → AWS → ECS / RDS / S3</b>
 </p>
 
-**On-Prem → MGN / DMS / DataSync → Terraform → AWS → ECS / RDS / S3**
-
-`AWS MGN` `DMS` `DataSync` `Terraform` `CloudFormation` `ECS` `RDS`
+<p align="center">
+<sub>Cloud Migration • Rehosting • Database Migration • Data Transfer • IaC • AWS Modernization</sub>
+</p>
 
 ---
 
 ## 🤖 AI Chatbot — Serverless Cloud Architecture
 
+<div align="center">
+
+<img src="./assets/genai-flow.svg" width="950" alt="GenAI Architecture Flow">
+
+</div>
+
 <p align="center">
-  <img src="./assets/genai-flow.svg" width="850" alt="GenAI Architecture Flow" />
+<b>User → API Gateway → Lambda → Amazon Bedrock → Agentic Workflow → LLM Response</b>
 </p>
 
-**User → API Gateway → Lambda → Amazon Bedrock → Agentic Workflow → LLM Response**
+<p align="center">
+<sub>Serverless • Generative AI • Amazon Bedrock • Agentic Workflow • IAM • Python</sub>
+</p>
 
-`Bedrock` `Lambda` `API Gateway` `S3` `IAM` `Python`
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=aws" height="48"/><br>
+<b>Cloud</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=terraform,ansible" height="48"/><br>
+<b>Infrastructure</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions" height="48"/><br>
+<b>CI/CD</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="48"/><br>
+<b>Containers</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=linux,bash" height="48"/><br>
+<b>Linux</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python" height="48"/><br>
+<b>Automation</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,elasticsearch" height="42"/><br>
+<b>Observability</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="42"/><br>
+<b>Databases</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github" height="42"/><br>
+<b>Version Control</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="42"/><br>
+<b>Security</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" height="42"/><br>
+<b>GenAI / LLM</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="42"/><br>
+<b>Serverless</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+### Core Technologies
+
+<details>
+<summary><b>☁️ AWS Cloud</b></summary>
+
+`EC2` `S3` `RDS` `VPC` `IAM` `Lambda` `ECS` `EKS`  
+`CloudFront` `WAF` `Security Hub` `SageMaker` `Systems Manager`  
+`Direct Connect` `VPN` `CloudTrail` `Secrets Manager`
+
+</details>
+
+<details>
+<summary><b>🏗️ Infrastructure as Code</b></summary>
+
+`Terraform` `CloudFormation` `Ansible`
+
+</details>
+
+<details>
+<summary><b>⚙️ DevOps & CI/CD</b></summary>
+
+`Jenkins` `GitHub Actions` `AWS CodePipeline` `Git` `GitHub`  
+`Automated Testing` `Security Scanning`  
+`Blue-Green Releases` `Canary Releases` `Rolling Releases`
+
+</details>
+
+<details>
+<summary><b>📦 Containers & Orchestration</b></summary>
+
+`Docker` `Kubernetes` `Amazon ECS`
+
+</details>
+
+<details>
+<summary><b>📊 Monitoring & Observability</b></summary>
+
+`CloudWatch` `Datadog` `Prometheus` `ELK Stack`  
+`Dashboards` `SLO-based Alerts` `Log Analysis`
+
+</details>
+
+<details>
+<summary><b>🔐 Security & Compliance</b></summary>
+
+`IAM` `Security Hub` `Amazon Inspector` `NACLs` `WAF`  
+`Security Groups` `Permission Boundaries` `SCPs` `Least Privilege`
+
+</details>
+
+<details>
+<summary><b>💻 Scripting & Automation</b></summary>
+
+`Python` `Bash` `Shell Scripting`
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+
+`MySQL` `MongoDB` `Amazon DocumentDB`
+
+</details>
+
+<details>
+<summary><b>🤖 AI & LLM</b></summary>
+
+`Amazon Bedrock` `AWS DevOps Agent` `Claude`
+
+</details>
+---
+
+# 📈 Engineering Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">☁️<br><b>Cloud Architecture</b></td>
+<td align="center">⚙️<br><b>DevOps Automation</b></td>
+<td align="center">🏗️<br><b>Infrastructure as Code</b></td>
+<td align="center">🔐<br><b>Cloud Security</b></td>
+
+</tr>
+
+<tr>
+
+<td align="center">📊<br><b>Observability</b></td>
+<td align="center">🔄<br><b>Cloud Migration</b></td>
+<td align="center">🐳<br><b>Containers</b></td>
+<td align="center">🤖<br><b>Generative AI</b></td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build it. Automate it. Secure it. Scale it.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mravi0121&style=flat-square" alt="Profile Views"/>
+
+</div>
