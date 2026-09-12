@@ -1,31 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Ravi Mishra
-Senior Cloud & DevOps Engineer
+<h1>👋 Hi, I'm Ravi Mishra</h1>
 
-<p>
-  <a href="https://linkedin.com/in/mravi012">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ravirmishra2995898@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="tel:+91XXXXXXXXXX">
-    <img src="https://img.icons8.com/color/48/phone.png" width="32" alt="Phone"/>
-  </a>
-</p>
-</table>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=500&height=25&lines=AWS+Cloud+Engineering;Cloud+Infrastructure;DevOps+%26+Automation;Infrastructure+as+Code;CI%2FCD+%26+Release+Automation;Containers+%26+Orchestration;Cloud+Security+%26+Observability;Cloud+Migration+%26+Modernization;GenAI+%26+Agentic+Workflows"
-  alt="Cloud and DevOps Engineering"
-/>
-
+<div>
+<b>Senior Cloud & DevOps Engineer</b>
+&nbsp;&nbsp;:&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mravi012"><img src="https://img.icons8.com/color/48/linkedin.png" width="25" height="25" align="middle" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:ravirmishra2995898@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="25" height="25" align="middle" alt="Gmail"></a>&nbsp;&nbsp;
+<a href="tel:+919311844586"><img src="https://img.icons8.com/color/48/phone.png" width="25" height="25" align="middle" alt="Phone"></a>
 </div>
 
-------
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&center=true&vCenter=true&width=480&height=25&lines=AWS+Cloud+Engineering;Cloud+Infrastructure;DevOps+%26+Automation;Infrastructure+as+Code;CI%2FCD+%26+Release+Automation;Containers+%26+Orchestration;Cloud+Security+%26+Observability;Cloud+Migration+%26+Modernization;GenAI+%26+Agentic+Workflows" alt="Cloud and DevOps Engineering">
+
+</div>
 
 ## About
 
