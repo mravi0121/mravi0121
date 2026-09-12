@@ -107,134 +107,71 @@ Build visibility into production systems using:
 
 <div align="center">
 
-## ☁️ Cloud
+<table>
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="70" />
-</p>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=aws" height="50"/><br>
+<b>Cloud</b>
+</td>
 
-### Amazon Web Services
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=terraform,ansible" height="50"/><br>
+<b>Infrastructure</b>
+</td>
 
-`EC2` `S3` `RDS` `VPC` `IAM` `Lambda` `ECS` `EKS` `CloudFront`
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github" height="50"/><br>
+<b>CI/CD</b>
+</td>
 
-`WAF` `Security Hub` `SageMaker` `Systems Manager` `Direct Connect`
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50"/><br>
+<b>Containers</b>
+</td>
 
-`VPN` `CloudTrail` `Secrets Manager`
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=linux,bash" height="50"/><br>
+<b>Linux & Shell</b>
+</td>
 
----
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python" height="50"/><br>
+<b>Automation</b>
+</td>
 
-## 🏗️ Infrastructure as Code
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform" height="70" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="70" />
-</p>
+<br>
 
-### Terraform • Ansible • CloudFormation
+<table>
+<tr>
 
-`Terraform` `CloudFormation` `Ansible`
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=prometheus,elasticsearch" height="45"/><br>
+<b>Observability</b>
+</td>
 
----
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/><br>
+<b>Databases</b>
+</td>
 
-## ⚙️ DevOps & CI/CD
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=python" height="45"/><br>
+<b>GenAI & LLM</b>
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="70" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="70" />
-  <img src="https://skillicons.dev/icons?i=git" height="70" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" />
-</p>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=aws" height="45"/><br>
+<b>Security</b>
+</td>
 
-### Jenkins • GitHub Actions • Git • GitHub
-
-`Jenkins` `GitHub Actions` `AWS CodePipeline`
-
-`Automated Testing` `Security Scanning` `Blue-Green`
-
-`Canary Releases` `Rolling Releases`
-
----
-
-## 📦 Containers & Orchestration
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="70" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="70" />
-</p>
-
-### Docker • Kubernetes • Amazon ECS
-
-`Docker` `Kubernetes` `Amazon ECS`
-
----
-
-## 📊 Monitoring & Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus" height="70" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="70" />
-</p>
-
-### CloudWatch • Datadog • Prometheus • ELK Stack
-
-`CloudWatch` `Datadog` `Prometheus` `ELK Stack`
-
-`Dashboards` `SLO-based Alerts` `Log Analysis`
-
----
-
-## 🔐 Security & Compliance
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="70" />
-</p>
-
-### AWS Security & Identity
-
-`IAM` `Security Hub` `Amazon Inspector`
-
-`NACLs` `WAF` `Security Groups`
-
-`Permission Boundaries` `SCPs` `Least Privilege`
-
----
-
-## 💻 Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" height="70" />
-</p>
-
-### Python • Bash • Shell Scripting
-
-`Python` `Bash` `Shell Scripting`
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="70" />
-</p>
-
-### MySQL • MongoDB • Amazon DocumentDB
-
-`MySQL` `MongoDB` `DocumentDB`
-
----
-
-## 🤖 AI & LLM Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="70" />
-</p>
-
-### Amazon Bedrock • AWS DevOps Agent • Claude
-
-`Amazon Bedrock` `AWS DevOps Agent` `Claude`
+</tr>
+</table>
 
 </div>
-
 ---
 
 # ☁️ AWS Capability Map
