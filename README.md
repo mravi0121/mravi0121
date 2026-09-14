@@ -348,37 +348,6 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 ---
 
-
----
-
-# 📈 Engineering Focus
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">☁️<br><b>Cloud Architecture</b></td>
-<td align="center">⚙️<br><b>DevOps Automation</b></td>
-<td align="center">🏗️<br><b>Infrastructure as Code</b></td>
-<td align="center">🔐<br><b>Cloud Security</b></td>
-
-</tr>
-
-<tr>
-
-<td align="center">📊<br><b>Observability</b></td>
-<td align="center">🔄<br><b>Cloud Migration</b></td>
-<td align="center">🐳<br><b>Containers</b></td>
-<td align="center">🤖<br><b>Generative AI</b></td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Build it. Automate it. Secure it. Scale it.
