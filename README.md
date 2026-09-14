@@ -26,17 +26,83 @@
 
 <td width="62%" valign="top">
 
-I'm a **Cloud & DevOps Engineer** who enjoys building the infrastructure behind reliable products.
+### Core Technologies
 
-I work primarily with **AWS**, but I'm comfortable moving across infrastructure, automation and operations when a system needs it — from **Infrastructure as Code and CI/CD** to containers, security and observability.
+<details>
+<summary><b>☁️ AWS Cloud</b></summary>
 
-A big part of my work is turning manual or complex infrastructure processes into **repeatable, automated workflows** that are easier to deploy, operate and scale.
+`EC2` `S3` `RDS` `VPC` `IAM` `Lambda` `ECS` `EKS`  
+`CloudFront` `WAF` `Security Hub` `SageMaker` `Systems Manager`  
+`Direct Connect` `VPN` `CloudTrail` `Secrets Manager`
 
-I'm also exploring **Generative AI and agentic workflows**, with a particular interest in serverless architectures and Amazon Bedrock.
+</details>
+
+<details>
+<summary><b>🏗️ Infrastructure as Code</b></summary>
+
+`Terraform` `CloudFormation` `Ansible`
+
+</details>
+
+<details>
+<summary><b>⚙️ DevOps & CI/CD</b></summary>
+
+`Jenkins` `GitHub Actions` `AWS CodePipeline` `Git` `GitHub`  
+`Automated Testing` `Security Scanning`  
+`Blue-Green Releases` `Canary Releases` `Rolling Releases`
+
+</details>
+
+<details>
+<summary><b>📦 Containers & Orchestration</b></summary>
+
+`Docker` `Kubernetes` `Amazon ECS`
+
+</details>
+
+<details>
+<summary><b>📊 Monitoring & Observability</b></summary>
+
+`CloudWatch` `Datadog` `Prometheus` `ELK Stack`  
+`Dashboards` `SLO-based Alerts` `Log Analysis`
+
+</details>
+
+<details>
+<summary><b>🔐 Security & Compliance</b></summary>
+
+`IAM` `Security Hub` `Amazon Inspector` `NACLs` `WAF`  
+`Security Groups` `Permission Boundaries` `SCPs` `Least Privilege`
+
+</details>
+
+<details>
+<summary><b>💻 Scripting & Automation</b></summary>
+
+`Python` `Bash` `Shell Scripting`
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+
+`MySQL` `MongoDB` `Amazon DocumentDB`
+
+</details>
+
+<details>
+<summary><b>🤖 AI & LLM</b></summary>
+
+`Amazon Bedrock` `AWS DevOps Agent` `Claude`
+
+</details>
+
 
 <td width="38%" valign="top">
 
 <h3>⚡ PROFILE</h3>
+
+I'm a **Cloud & DevOps Engineer** who enjoys building the infrastructure behind reliable products.
 
 <table>
 <tr>
@@ -149,62 +215,6 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 ---
 
-# 🚀 Selected Engineering Work
-
-## ☁️ Scalable Multi-Account Cloud Infrastructure
-
-<div align="center">
-
-<img src="./assets/aws-infrastructure-flow.svg" width="950" alt="AWS Infrastructure Flow">
-
-</div>
-
-<p align="center">
-<b>GitHub → Jenkins → Docker → ECS/EC2 → ALB → Auto Scaling → CloudWatch</b>
-</p>
-
-<p align="center">
-<sub>Multi-Account AWS • 50+ Instances • CI/CD • Containerization • High Availability • Observability</sub>
-</p>
-
----
-
-## 🔄 On-Premises → AWS Cloud Migration
-
-<div align="center">
-
-<img src="./assets/cloud-migration-flow.svg" width="950" alt="Cloud Migration Flow">
-
-</div>
-
-<p align="center">
-<b>On-Premises → MGN / DMS / DataSync → Terraform → AWS → ECS / RDS / S3</b>
-</p>
-
-<p align="center">
-<sub>Cloud Migration • Rehosting • Database Migration • Data Transfer • IaC • AWS Modernization</sub>
-</p>
-
----
-
-## 🤖 AI Chatbot — Serverless Cloud Architecture
-
-<div align="center">
-
-<img src="./assets/genai-flow.svg" width="950" alt="GenAI Architecture Flow">
-
-</div>
-
-<p align="center">
-<b>User → API Gateway → Lambda → Amazon Bedrock → Agentic Workflow → LLM Response</b>
-</p>
-
-<p align="center">
-<sub>Serverless • Generative AI • Amazon Bedrock • Agentic Workflow • IAM • Python</sub>
-</p>
-
----
-
 # 🛠️ Technology Stack
 
 <div align="center">
@@ -281,76 +291,64 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 </div>
 
-### Core Technologies
 
-<details>
-<summary><b>☁️ AWS Cloud</b></summary>
+# 🚀 Selected Engineering Work
 
-`EC2` `S3` `RDS` `VPC` `IAM` `Lambda` `ECS` `EKS`  
-`CloudFront` `WAF` `Security Hub` `SageMaker` `Systems Manager`  
-`Direct Connect` `VPN` `CloudTrail` `Secrets Manager`
+## ☁️ Scalable Multi-Account Cloud Infrastructure
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>🏗️ Infrastructure as Code</b></summary>
+<img src="./assets/aws-infrastructure-flow.svg" width="950" alt="AWS Infrastructure Flow">
 
-`Terraform` `CloudFormation` `Ansible`
+</div>
 
-</details>
+<p align="center">
+<b>GitHub → Jenkins → Docker → ECS/EC2 → ALB → Auto Scaling → CloudWatch</b>
+</p>
 
-<details>
-<summary><b>⚙️ DevOps & CI/CD</b></summary>
+<p align="center">
+<sub>Multi-Account AWS • 50+ Instances • CI/CD • Containerization • High Availability • Observability</sub>
+</p>
 
-`Jenkins` `GitHub Actions` `AWS CodePipeline` `Git` `GitHub`  
-`Automated Testing` `Security Scanning`  
-`Blue-Green Releases` `Canary Releases` `Rolling Releases`
+---
 
-</details>
+## 🔄 On-Premises → AWS Cloud Migration
 
-<details>
-<summary><b>📦 Containers & Orchestration</b></summary>
+<div align="center">
 
-`Docker` `Kubernetes` `Amazon ECS`
+<img src="./assets/cloud-migration-flow.svg" width="950" alt="Cloud Migration Flow">
 
-</details>
+</div>
 
-<details>
-<summary><b>📊 Monitoring & Observability</b></summary>
+<p align="center">
+<b>On-Premises → MGN / DMS / DataSync → Terraform → AWS → ECS / RDS / S3</b>
+</p>
 
-`CloudWatch` `Datadog` `Prometheus` `ELK Stack`  
-`Dashboards` `SLO-based Alerts` `Log Analysis`
+<p align="center">
+<sub>Cloud Migration • Rehosting • Database Migration • Data Transfer • IaC • AWS Modernization</sub>
+</p>
 
-</details>
+---
 
-<details>
-<summary><b>🔐 Security & Compliance</b></summary>
+## 🤖 AI Chatbot — Serverless Cloud Architecture
 
-`IAM` `Security Hub` `Amazon Inspector` `NACLs` `WAF`  
-`Security Groups` `Permission Boundaries` `SCPs` `Least Privilege`
+<div align="center">
 
-</details>
+<img src="./assets/genai-flow.svg" width="950" alt="GenAI Architecture Flow">
 
-<details>
-<summary><b>💻 Scripting & Automation</b></summary>
+</div>
 
-`Python` `Bash` `Shell Scripting`
+<p align="center">
+<b>User → API Gateway → Lambda → Amazon Bedrock → Agentic Workflow → LLM Response</b>
+</p>
 
-</details>
+<p align="center">
+<sub>Serverless • Generative AI • Amazon Bedrock • Agentic Workflow • IAM • Python</sub>
+</p>
 
-<details>
-<summary><b>🗄️ Databases</b></summary>
+---
 
-`MySQL` `MongoDB` `Amazon DocumentDB`
 
-</details>
-
-<details>
-<summary><b>🤖 AI & LLM</b></summary>
-
-`Amazon Bedrock` `AWS DevOps Agent` `Claude`
-
-</details>
 ---
 
 # 📈 Engineering Focus
