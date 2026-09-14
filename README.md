@@ -374,6 +374,9 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 </div>
 
+---
+
+<div align="center">
 
 ### 💡 Build it. Automate it. Secure it. Scale it.
 
