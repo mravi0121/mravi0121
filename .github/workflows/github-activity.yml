@@ -20,7 +20,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: mravi0121
-          options: theme=github-compact&hide_border=true&area=true&custom_title=output_path: dist/activity-graph.svg
+          options: theme=github-compact&hide_border=true&area=true&custom_title=output_path:dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish activity graph
