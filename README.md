@@ -146,7 +146,6 @@ I'm a **Cloud & DevOps Engineer** who enjoys building the infrastructure behind 
 </td>
 </tr>
 </table>
-
 </td>
 </tr>
 </table>
