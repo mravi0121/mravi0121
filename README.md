@@ -348,7 +348,32 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 ---
 
+<br>
+
 <div align="center">
+
+<!-- GitHub Stats -->
+
+<br><br>
+
+<!-- GitHub Streak -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mravi0121&hide_border=true&short_numbers=true"
+  width="100%"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<!-- Self-hosted Activity Graph -->
+<img
+  src="https://raw.githubusercontent.com/mravi0121/mravi0121/output/activity-graph.svg"
+  width="100%"
+  alt="GitHub Activity"
+/>
+
+</div>
+
 
 ### 💡 Build it. Automate it. Secure it. Scale it.
 
