@@ -350,20 +350,9 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 <br>
 
+
+### 📊 Contribution Graph
 <div align="center">
-
-<!-- GitHub Stats -->
-
-<br><br>
-
-<!-- GitHub Streak -->
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mravi0121&hide_border=true&short_numbers=true"
-  width="100%"
-  alt="GitHub Streak"
-/>
-
-<br><br>
 
 <!-- Self-hosted Activity Graph -->
 <img
