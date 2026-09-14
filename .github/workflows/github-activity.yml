@@ -1,0 +1,33 @@
+name: GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: mravi0121
+          options: theme=github-compact&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
