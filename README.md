@@ -348,23 +348,6 @@ Production visibility focused on monitoring, alerting and faster troubleshooting
 
 ---
 
-<br>
-
-
-### 📊 Contribution Graph
-<div align="center">
-
-<!-- Self-hosted Activity Graph -->
-<img
-  src="https://raw.githubusercontent.com/mravi0121/mravi0121/output/activity-graph.svg"
-  width="100%"
-  alt="GitHub Activity"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Build it. Automate it. Secure it. Scale it.
