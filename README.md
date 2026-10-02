@@ -132,7 +132,7 @@ I'm a **Cloud & DevOps Engineer** who enjoys building the infrastructure behind 
 <td width="85"><code>STUDIED</code></td>
 <td>
 <img src="./assets/aktu-logo.png" height="20" valign="middle" />
-&nbsp;<strong>AKTU Lucknow · B.Tech CSE</strong>
+&nbsp;<strong>AKTU Lucknow · B.Tech · CSE</strong>
 </td>
 </tr>
 <tr>
